@@ -24,7 +24,7 @@ p {
     margin-right: 10px;
     margin-left: 10px;
     font-family: Helvetica;
-    color: black;
+    color: white;
     padding:30px;
     position: relative;
 }
@@ -40,6 +40,7 @@ p > span {
     width:90px;
     text-align: center;
     font-size: 1.25em;
+    color:black
 }
 
 #title1{
@@ -55,15 +56,15 @@ p > span {
 }
 
 #div1{
-    background-color:pink;
+    background-color:gray;
 }
 
 #div2{
-    background-color:orange;
+    background-color:gray;
 }
 
 #div3{
-    background-color:mediumspringgreen;
+    background-color:gray;
 }
 
 /********** Large devices only **********/
