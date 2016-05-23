@@ -51,7 +51,19 @@ p > span {
 }
 
 #title3{
-    background-color: green;
+    background-color: lightblue;
+}
+
+#div1{
+    background-color:pink;
+}
+
+#div2{
+    background-color:orange;
+}
+
+#div3{
+    background-color:mediumspringgreen;
 }
 
 /********** Large devices only **********/
