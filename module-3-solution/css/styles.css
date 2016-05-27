@@ -1,0 +1,18 @@
+.navbar {
+    border-radius: 0px;
+}
+
+#main-content{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#main-content-row{
+    background-color: #67b168;
+}
+
+/********** Small devices only **********/
+@media (max-width: 768px){
+    #collapsable-nav{
+        background-color: #9acfea;
+    }
+}
