@@ -2,6 +2,10 @@
     border-radius: 0px;
 }
 
+.navbar-brand a{
+    text-decoration: none;
+}
+
 #main-content{
     margin-left: 10px;
     margin-right: 10px;
